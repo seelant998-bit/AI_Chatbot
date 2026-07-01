@@ -1,0 +1,68 @@
+{
+    "hello": "Hi! How can I help you?",
+    "hi": "Hello! Nice to meet you.",
+    "hey": "Hey! What can I do for you?",
+    "good morning": "Good morning! Have a great day.",
+    "good evening": "Good evening! How can I help you?",
+
+    "what is your name": "My name is AI Assistant. I am a Python chatbot project.",
+    "who created you": "I was created by a B.Sc AI & ML student using Python.",
+    "who made you": "I was developed as an AI chatbot project using Python.",
+
+    "python": "Python is a programming language widely used in AI, ML, and data science.",
+    "what is python": "Python is a high-level programming language known for simplicity and AI development.",
+
+    "what is ai": "AI stands for Artificial Intelligence. It helps machines perform intelligent tasks.",
+    "artificial intelligence": "AI helps machines perform tasks that normally require human intelligence.",
+
+    "what is machine learning": "Machine Learning is a branch of AI that learns patterns from data.",
+    "machine learning": "Machine Learning allows computers to learn from experience and data.",
+
+    "what is nlp": "NLP means Natural Language Processing. It helps computers understand human language.",
+    "natural language processing": "NLP is used to process and understand human language.",
+
+    "what can you do": "I can answer questions, provide information, and help users learn AI basics.",
+
+    "project": "I am an AI chatbot project built using Python, JSON, NLTK, and Tkinter.",
+    "your project": "My project demonstrates chatbot logic, NLP, and GUI development.",
+
+    "college": "I can help students with basic learning questions.",
+    "student": "Students can use AI tools to learn and improve skills.",
+
+    "what is ml": "ML is a technology where computers learn from data.",
+    "what is data science": "Data Science uses data, statistics, and programming to find insights.",
+
+    "what is computer": "A computer is an electronic device that processes information.",
+    "what is software": "Software is a set of programs that tells a computer what to do.",
+    "what is hardware": "Hardware means physical parts of a computer.",
+
+    "thank you": "You're welcome! Keep learning.",
+    "thanks": "Happy to help!",
+
+    "bye": "Goodbye! Have a nice day.",
+    "exit": "Bye! See you again.",
+
+    "how are you": "I am good! Ready to answer your questions.",
+
+    "what is ai ml": "AI and ML are technologies used to create intelligent systems.",
+
+    "future of ai": "AI has a growing role in healthcare, education, robotics, and many fields.",
+
+    "robot": "Robots can use AI to perform tasks automatically.",
+
+    "what is tkinter": "Tkinter is a Python library used to create GUI applications.",
+
+    "what is json": "JSON is a format used to store and exchange data.",
+
+    "what is github": "GitHub is a platform used to store and share code projects.",
+
+    "coding": "Coding means writing instructions for computers using programming languages.",
+
+    "developer": "A developer creates software and applications using programming skills.",
+
+    "learn python": "Start with basics like variables, conditions, loops, and functions.",
+
+    "learn ai": "Learn Python, mathematics, machine learning, and data handling.",
+
+    "what is technology": "Technology uses science and tools to solve problems."
+}
